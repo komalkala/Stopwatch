@@ -38,19 +38,4 @@
 }
 
 
-.stopwatch {
-  text-align: LEFT;
-  margin:20px
-}
 
-.time {
-  font-size: 2em;
-  margin: 10px;
-}
-
-button {
-  font-size: 1em;
-  margin: 5px;
-  padding: 5px 10px;
-  cursor: pointer;
-}
