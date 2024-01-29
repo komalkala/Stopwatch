@@ -37,15 +37,10 @@
   }
 }
 
-.app {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
 
 .stopwatch {
-  text-align: center;
+  text-align: LEFT;
+  margin:20px
 }
 
 .time {

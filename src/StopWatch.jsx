@@ -23,7 +23,6 @@ const Stopwatch = () => {
   };
 
   const resetHandler = () => {
-    setIsRunning(false);
     setTime(0);
   };
 
